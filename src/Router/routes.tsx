@@ -1,5 +1,5 @@
 import React from "react";
-import { Navigate, RouteObject } from "react-router";
+import { RouteObject } from "react-router";
 // import { About } from '../About';
 // import { Agencies } from '../Agencies';
 // import { AstronautsPage } from '../AstronautsPage';
