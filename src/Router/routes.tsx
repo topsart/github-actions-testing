@@ -30,6 +30,6 @@ export const routesConfig: RouteObject[] = [
   // },
   {
     path: "*",
-    element: <Navigate to={RoutesPath.HOME} />,
+    element: <Home />,
   },
 ];
