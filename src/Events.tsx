@@ -1,10 +1,10 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 
-export const Home = () => {
+export const Events = () => {
   return (
     <div>
-      <NavLink to="/events">To Events</NavLink>
+      <NavLink to="/">To Home</NavLink>
     </div>
   );
 };
